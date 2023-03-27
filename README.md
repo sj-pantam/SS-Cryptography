@@ -67,3 +67,7 @@ The command line options:
 - `-o` Output file for decrypted data
 
 - `-n` Private key file
+
+## Credit
+
+Credit to Dr.Long for algorithm
