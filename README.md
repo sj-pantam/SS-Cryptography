@@ -1,5 +1,9 @@
 # SS Cryptography - README
 
+## Description
+
+Schmidt-Samoa algorithm generates a public and private key using keygen, and then whatever message, etc you want to send will be encrypted. With the private key, the message can be decrypted to its actual message.
+
 ## Program Compilation
 
 To compile/build the entire program, enter: make
